@@ -22,7 +22,6 @@
   ⚙️ <strong>DevOps Engineer</strong> specializing in CI/CD Automation<br><br>
   🐳 Experienced with <strong>Docker, Kubernetes, Linux, Git, GitHub Actions</strong><br><br>
   🚀 Passionate about building <strong>scalable cloud infrastructure</strong><br><br>
-  🤝 Open to <strong>freelance projects</strong> and <strong>open-source collaborations</strong><br><br>
   📫 Reach me at: <strong>nihitejatin@gmail.com</strong><br><br>
   🎧 Fun fact: I enjoy <strong>tech podcasts</strong> and <strong>electronic music</strong>
 </p>
