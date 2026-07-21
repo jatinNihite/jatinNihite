@@ -1,15 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jatin+Nihite;Cloud+Solution+Architect;DevOps+Engineer" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Jatin Nihite</h1>
 
-<h3 align="center">Cloud Solution Architect | DevOps Engineer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Cloud+Solution+Architect;DevOps+Engineer;CI%2FCD+Automation+Specialist" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20for%20work-Yes-brightgreen" alt="Open for work" />
   <img src="https://img.shields.io/badge/Profile%20Views-308-blue" alt="Profile Views" />
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jatinNihite&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -17,15 +15,15 @@
 
 ---
 
-## <p align="center">🚀 About Me</p>
+## <p align="center">👨‍💻 About Me</p>
 
 <p align="center">
-  🎓 <strong>Bachelor of Commerce Graduate</strong> in Computer Science<br>
-  ⚙️ <strong>DevOps Engineer</strong> specializing in CI/CD Automation<br>
-  🐳 Experienced with <strong>Docker, Kubernetes, Linux, Git, GitHub Actions</strong><br>
-  🌐 Passionate about building <strong>scalable cloud infrastructure</strong><br>
-  🤝 Open to <strong>freelance projects</strong> and <strong>open-source collaborations</strong><br>
-  📫 Reach me at: <strong>nihitejatin@gmail.com</strong><br>
+  🎓 <strong>Bachelor of Commerce Graduate</strong> in Computer Science<br><br>
+  ⚙️ <strong>DevOps Engineer</strong> specializing in CI/CD Automation<br><br>
+  🐳 Experienced with <strong>Docker, Kubernetes, Linux, Git, GitHub Actions</strong><br><br>
+  🚀 Passionate about building <strong>scalable cloud infrastructure</strong><br><br>
+  🤝 Open to <strong>freelance projects</strong> and <strong>open-source collaborations</strong><br><br>
+  📫 Reach me at: <strong>nihitejatin@gmail.com</strong><br><br>
   🎧 Fun fact: I enjoy <strong>tech podcasts</strong> and <strong>electronic music</strong>
 </p>
 
