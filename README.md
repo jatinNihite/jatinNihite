@@ -235,9 +235,7 @@
 
 <p align="center">
   <strong>Email:</strong> nihitejatin@gmail.com<br>
-  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/jatinnihite">jatinnihite</a><br>
-  <strong>Twitter:</strong> <a href="https://twitter.com/jatinnihite">@jatinnihite</a><br>
-  <strong>Dev.to:</strong> <a href="https://dev.to/jatinnihite">jatinnihite</a>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jatin-nihite-9842a241a/"</a><br>
 </p>
 
 ---
